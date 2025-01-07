@@ -14,7 +14,7 @@ This project was developed as part of a class at the **University of Applied Sci
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/micha997/ssml_editor_server.git
-cd ssml-editor-server
+cd ssml_editor_server
 ```
 
 ### 2. Install Dependencies
